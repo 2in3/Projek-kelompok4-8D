@@ -291,9 +291,12 @@ overflow-x: hidden;
       }
       .kelompok4{
           width: 2480px;
+          background-color:none;
       }
        .Kelompok4 h2{
-        margin-left: -50px;}
+        margin-left: -50px;
+           text-align:center;
+       }
       .nama h1{
         font-size: 25px;
     }
@@ -375,9 +378,11 @@ overflow-x: hidden;
       }
       .kelompok4{
           width: 2380px;
+          background-color:none;
       }
        .Kelompok4 h2{
-        margin-left: -50px;}
+        margin-left: -50px;
+       text-align:center;}
       .nama h1{
         font-size: 25px;
     }
@@ -459,9 +464,11 @@ overflow-x: hidden;
       }
       .kelompok4{
           width: 2380px;
+          background-color:none;
       }
        .Kelompok4 h2{
-        margin-left: -50px;}
+        margin-left: -50px;
+       text-align:center;}
       .nama h1{
         font-size: 25px;
     }
