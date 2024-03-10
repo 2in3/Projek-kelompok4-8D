@@ -290,10 +290,10 @@ background: linear-gradient(90deg, rgba(10,1,175,1) 0%, rgba(50,138,187,1) 45%);
 overflow-x: hidden;
       }
       .kelompok4{
-          width: 580px;
+          width: 1180px;
       }
        .Kelompok4 h2{
-        margin-left: -90px;}
+        margin-left: -50px;}
       .nama h1{
         font-size: 25px;
     }
@@ -315,7 +315,7 @@ overflow-x: hidden;
         margin-left: 20px;
         width: 450px;
         margin-top: 30px;
-        height: 510px;
+        height: 590px;
     }
     .alternatif h2{
         font-size: 50px;
