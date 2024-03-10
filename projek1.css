@@ -1,0 +1,361 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: rgb(10,1,175);
+background: linear-gradient(90deg, rgba(10,1,175,1) 0%, rgba(50,138,187,1) 45%, rgba(18,46,156,1) 81%);
+overflow-x: hidden;
+}
+
+
+.Kelompok4{
+    background-color: rgb(19, 51, 95);
+    margin-top: -32px;
+    height: 50px;
+  }
+  .Kelompok4 h2{
+    font-size: 4vh;
+    text-align: center;
+    font-family: "Open Sans", sans-serif, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(232, 255, 255);
+    margin-top: 32px;
+  }
+  .anggota{
+      background-color: rgb(28, 28, 133);
+      width: 60vh;
+      height: 27VH;
+      border-radius: 20px ;
+      margin-left:63vh;
+  }
+  .anggota h2{
+      color: rgb(232, 255, 255);
+      font-family:"Open Sans", sans-serif, Georgia, Times, 'Times New Roman', serif ;
+      text-align: center;
+  }
+  .anggota li{
+      color: rgb(232, 255, 255);
+      font-family: "Open Sans", sans-serif, Georgia, Times, 'Times New Roman', serif;
+      margin-left: 10px;
+      margin-top: 1px;
+  }
+  
+  .gambar img{
+      width: 90vh;
+      margin-top: 8vh;
+      margin-left: 355px;
+      border-radius: 15px;
+      box-shadow: 3px 3px 4px;
+      position: relative;
+     
+  }
+  .nama{
+      background-color: black;
+      border-radius: 10px;
+      width: 360px;
+      margin-left: 540px;
+      position: relative;
+      
+     
+  
+  }
+  .nama h1{
+      margin-left: 20px;
+      color: rgb(232, 255, 255) ;
+  }
+  
+  .latarbelakang{
+      background-color: rgb(28, 28, 133);
+      width: 510px;
+      margin-left: 50px;
+      border-radius: 13px;
+      position: relative;
+     
+  }
+  .latarbelakang h2{
+      text-align: center;
+      font-size: 80px;
+      color: rgb(232, 255, 255);
+  }
+  .latarbelakang p{
+      font-size: 20px;
+      margin-left: 10px;
+      margin-top: 9px;
+      position: relative;
+      color: rgb(255, 255, 255);
+  }
+  .latarbelakang li{
+      margin-left: 10px;
+      font-size: 20px;
+      color: rgb(255, 255, 255);
+  }
+  .alternatif{
+    background-color: rgb(28, 28, 133);
+      width: 510px;
+      margin-left: 850px;
+      border-radius: 13px;
+      margin-top: -708px;
+      position: relative;
+  }
+  .alternatif h2{
+    text-align: center;
+    font-size: 70px;
+    color: rgb(232, 255, 255);
+  }
+  .alternatif p{
+    font-size: 20px;
+      margin-left: 10px;
+      margin-top: 9px;
+      position: relative;
+      color: rgb(255, 255, 255);
+  }
+  .next{
+      background-color: rgb(129, 129, 129);
+      width: 280px;
+      border-radius: 9px;
+      margin-left:540px;
+      position: relative;
+      margin-top: 400px;  }
+  .next a{
+      font-size: 20px;
+      text-decoration: none;
+      color: white;
+      margin-left: 5px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .next a:hover{
+      color: rgb(0, 0, 0);
+  }
+  .penjelasanproduk{
+    background-color: rgb(28, 28, 133);
+      width: 410px;
+      margin-left: 30px;
+      border-radius: 13px;
+      margin-top: 10px;
+      position: relative;
+      box-shadow: 3px 4px 3px;
+  }
+  .penjelasanproduk h2{
+    text-align: center;
+    font-size: 70px;
+    color: rgb(232, 255, 255);
+  }
+  .penjelasanproduk p{
+    font-size: 34px;
+    margin-left: 10px;
+    margin-top: 9px;
+    position: relative;
+    color: rgb(255, 255, 255);
+    text-align:start;
+  }
+  .rancanganproduk{
+    background-color: rgb(28, 28, 133);
+      width: 410px;
+      margin-left: 490px;
+      border-radius: 13px;
+      margin-top: 10px;
+      position: relative;
+      box-shadow: 3px 4px 3px;
+      margin-top: -680px;
+      
+  }
+  .rancanganproduk h2{
+    text-align: center;
+    font-size: 70px;
+    color: rgb(232, 255, 255);
+  }
+  .rancanganproduk p{
+    font-size: 32px;
+    margin-left: 10px;
+    margin-top: 9px;
+    position: relative;
+    color: rgb(255, 255, 255);
+    text-align:start;
+  }
+  .carakerja{
+    background-color: rgb(28, 28, 133);
+      width: 410px;
+      margin-left: 970px;
+      border-radius: 13px;
+      position: relative;
+      box-shadow: 3px 4px 3px;
+      margin-top: -702px;
+  }
+  .carakerja h2{
+    text-align: center;
+    font-size: 83px;
+    color: rgb(232, 255, 255);
+  }
+  .carakerja li{
+    font-size: 26.3px;
+    margin-left: 10px;
+    margin-top: 9px;
+    position: relative;
+    color: rgb(255, 255, 255);
+    text-align:start;
+  }
+  .harapan{
+    background-color: rgb(15, 15, 15);
+    border-radius: 10px;
+    width: 290px;
+    height: 44px;
+    margin-left: 550px;
+  }
+  .harapan h2{
+    font-size: 40px;
+    color:rgb(255, 255, 255) ;
+    margin-top:33px;
+    text-align: center;
+  }
+  .harapan1{
+    background: rgb(6, 24, 121);
+    border-radius: 200px 185px 0px 0px;
+    height: 500px;
+    width: 400px;
+  }
+  .harapan1 h1{
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+  }
+  .harapan1 p{
+    font-size: 45px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family:"Open Sans", sans-serif, Georgia, Times, 'Times New Roman', serif ;
+  }
+  .harapan2{
+    background: rgb(6, 24, 121);
+    border-radius: 200px 185px 0px 0px;
+    height: 500px;
+    width: 400px;
+    margin-left: 480px;
+    margin-top: -527px;
+  }
+  .harapan2 h1{
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+  }
+  .harapan2 p{
+    font-size: 45px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family:"Open Sans", sans-serif, Georgia, Times, 'Times New Roman', serif 
+  }
+  .harapan3{
+    background: rgb(6, 24, 121);
+    border-radius: 200px 185px 0px 0px;
+    height: 500px;
+    width: 400px;
+    margin-left: 980px;
+    margin-top: -527px;
+  }
+  .harapan3 h1{
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+  }
+  .harapan3 p{
+    font-size: 45px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family:"Open Sans", sans-serif, Georgia, Times, 'Times New Roman', serif 
+  }
+.back{
+    background-color: rgb(129, 129, 129);
+    width: 280px;
+    border-radius: 9px;
+    margin-left:540px;
+    position: relative;
+    margin-top: 100px;   
+}
+.back a{
+    font-size: 20px;
+      text-decoration: none;
+      color: white;
+      margin-left: 5px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+.back a:hover{
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+  
+  @media screen and (max-width:576px){
+    .gambar img{
+        width: 450px;
+        margin-left: 14px;
+    }
+    .nama{
+        margin-left: 50px;
+    }
+    .anggota{
+        margin-left: 16px;
+    }
+    .latarbelakang{
+        margin-left: 20px;
+        width: 450px;
+    }
+    .alternatif{
+        margin-left: 20px;
+        width: 450px;
+        margin-top: 30px;
+        height: 510px;
+    }
+    .alternatif h2{
+        font-size: 50px;
+    }
+    .next{
+        margin-left: 100px;
+        margin-top: 50px;
+    }
+    .penjelasanproduk{
+        margin-left: 20px;
+    }
+    .rancanganproduk{
+        margin-left: 20px;
+        margin-top:  57px;
+    }
+    .carakerja{
+        margin-left:  20px;
+        margin-top: 57px;
+    }
+    .harapan{
+        margin-left: 60px;
+    }
+    .harapan1{
+        width: 184px;
+        margin-left: 5px;
+    }
+    .harapan1 p{
+        font-size: 30px;
+    }
+    .harapan2{
+        margin-left: 246px;
+        width: 184px;
+    }
+    .harapan2 p{
+        font-size: 28px;
+        text-align: center;
+    }
+    .harapan3{
+        width: 184px;
+        margin-left: 120px;
+        margin-top: -20px;  
+    }
+    .harapan3 p{
+        font-size: 28px;
+    }
+    .back{
+        margin-left: 80px;
+        margin-top: 10px;
+    }
+  }
+
+ 
+    
+  
+  
+
