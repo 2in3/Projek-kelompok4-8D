@@ -290,7 +290,7 @@ background: linear-gradient(90deg, rgba(10,1,175,1) 0%, rgba(50,138,187,1) 45%);
 overflow-x: hidden;
       }
       .kelompok4{
-          width: 1480px;
+          width: 2480px;
       }
        .Kelompok4 h2{
         margin-left: -50px;}
@@ -298,8 +298,8 @@ overflow-x: hidden;
         font-size: 25px;
     }
     .gambar img{
-        width: 450px;
-        margin-left: 14px;
+        width: 420px;
+        margin-left: -4px;
     }
     .nama{
         margin-left: 50px;
@@ -308,14 +308,14 @@ overflow-x: hidden;
         margin-left: 16px;
     }
     .latarbelakang{
-        margin-left: 20px;
-        width: 450px;
+        margin-left: -4px;
+        width: 420px;
     }
     .alternatif{
         margin-left: 20px;
-        width: 450px;
+        width: 430px;
         margin-top: 30px;
-        height: 590px;
+        height: 615px;
     }
     .alternatif h2{
         font-size: 50px;
@@ -374,7 +374,7 @@ background: linear-gradient(90deg, rgba(10,1,175,1) 0%, rgba(50,138,187,1) 45%);
 overflow-x: hidden;
       }
       .kelompok4{
-          width: 1380px;
+          width: 2380px;
       }
        .Kelompok4 h2{
         margin-left: -50px;}
@@ -458,7 +458,7 @@ background: linear-gradient(90deg, rgba(10,1,175,1) 0%, rgba(50,138,187,1) 45%);
 overflow-x: hidden;
       }
       .kelompok4{
-          width: 1380px;
+          width: 2380px;
       }
        .Kelompok4 h2{
         margin-left: -50px;}
