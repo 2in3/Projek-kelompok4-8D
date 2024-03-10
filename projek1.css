@@ -387,7 +387,7 @@ overflow-x: hidden;
     }
     .gambar img{
         width: 420px;
-        margin-left: -5px;
+        margin-left: 5px;
     }
     .nama{
         margin-left: 50px;
