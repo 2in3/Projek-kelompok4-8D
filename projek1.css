@@ -128,17 +128,17 @@ overflow-x: hidden;
       width: 410px;
       margin-left: 30px;
       border-radius: 13px;
-      margin-top: -10px;
+      margin-top: 10px;
       position: relative;
       box-shadow: 3px 4px 3px;
   }
   .penjelasanproduk h2{
     text-align: center;
-    font-size: 55px;
+    font-size: 70px;
     color: rgb(232, 255, 255);
   }
   .penjelasanproduk p{
-    font-size: 20px;
+    font-size: 34px;
     margin-left: 10px;
     margin-top: 9px;
     position: relative;
@@ -150,7 +150,7 @@ overflow-x: hidden;
       width: 410px;
       margin-left: 490px;
       border-radius: 13px;
-      margin-top: -20px;
+      margin-top: 10px;
       position: relative;
       box-shadow: 3px 4px 3px;
       margin-top: -680px;
@@ -158,11 +158,11 @@ overflow-x: hidden;
   }
   .rancanganproduk h2{
     text-align: center;
-    font-size: 55px;
+    font-size: 70px;
     color: rgb(232, 255, 255);
   }
   .rancanganproduk p{
-    font-size: 20px;
+    font-size: 32px;
     margin-left: 10px;
     margin-top: 9px;
     position: relative;
@@ -176,7 +176,7 @@ overflow-x: hidden;
       border-radius: 13px;
       position: relative;
       box-shadow: 3px 4px 3px;
-      margin-top: 45px;
+      margin-top: -702px;
   }
   .carakerja h2{
     text-align: center;
@@ -184,7 +184,7 @@ overflow-x: hidden;
     color: rgb(232, 255, 255);
   }
   .carakerja li{
-    font-size: 20px;
+    font-size: 26.3px;
     margin-left: 10px;
     margin-top: 9px;
     position: relative;
