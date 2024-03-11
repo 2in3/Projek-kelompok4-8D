@@ -128,7 +128,7 @@ overflow-x: hidden;
       width: 410px;
       margin-left: 30px;
       border-radius: 13px;
-      margin-top: 10px;
+      margin-top: -10px;
       position: relative;
       box-shadow: 3px 4px 3px;
   }
@@ -150,7 +150,7 @@ overflow-x: hidden;
       width: 410px;
       margin-left: 490px;
       border-radius: 13px;
-      margin-top: 10px;
+      margin-top: -20px;
       position: relative;
       box-shadow: 3px 4px 3px;
       margin-top: -680px;
@@ -176,7 +176,7 @@ overflow-x: hidden;
       border-radius: 13px;
       position: relative;
       box-shadow: 3px 4px 3px;
-      margin-top: -702px;
+      margin-top: 45px;
   }
   .carakerja h2{
     text-align: center;
