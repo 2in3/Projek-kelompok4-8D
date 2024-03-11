@@ -282,7 +282,7 @@ overflow-x: hidden;
 
 
   
-  @media screen and (max-width:579px){
+  @media screen and (max-width:576px){
       .body{
            background: rgb(10,1,175);
 background: linear-gradient(90deg, rgba(10,1,175,1) 0%, rgba(50,138,187,1) 45%);
