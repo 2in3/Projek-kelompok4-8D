@@ -20,7 +20,7 @@ overflow-x: hidden;
   }
   .anggota{
       background-color: rgb(28, 28, 133);
-      width: 60vh;
+      width: 120px;
       height: 27VH;
       border-radius: 20px ;
       margin-left:63vh;
@@ -323,7 +323,7 @@ overflow-x: hidden;
         height: 700px;
     }
     .alternatif h2{
-        font-size: 45px;
+        font-size: 34px;
     }
     .next{
         margin-left:12px;
@@ -357,7 +357,7 @@ overflow-x: hidden;
         width:340px;
     }
     .harapan{
-        margin-left: 120px;
+        margin-left: 180px;
     }
     .harapan1{
         width: 184px;
