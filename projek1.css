@@ -291,21 +291,21 @@ overflow-x: hidden;
     
     
        .Kelompok4 h2{
-        margin-left: 40px;
+        margin-left: -20px;
        }
       .nama h1{
         font-size: 25px;
     }
     .gambar img{
         width: 300px;
-        margin-left: 10px;
+        margin-left: 20px;
     }
     .nama{
         margin-left: -7px;
     }
     .anggota{
         margin-left: 2px;
-        witdh:120px;
+        witdh:95px;
     }
     .latarbelakang{
         margin-left: 4px;
@@ -320,25 +320,25 @@ overflow-x: hidden;
         margin-left: 4px;
         width: 340px;
         margin-top: 30px;
-        height: 680px;
+        height: 686px;
     }
     .alternatif h2{
-        font-size: 72px;
+        font-size: 73px;
     }
     .next{
-        margin-left: -20px;
+        margin-left:12px;
         margin-top: 50px;
     }
     .penjelasanproduk{
         margin-left: 20px;
         width:340px;
-        margin-left:-4px
+        margin-left:3px
     }
       .penjelasanproduk p{
           font-size:30px;
       }
     .rancanganproduk{
-        margin-left: -4px;
+        margin-left: 3px;
         margin-top:  57px;
         width:340px;
     }
@@ -346,22 +346,22 @@ overflow-x: hidden;
           font-size:30px;
       }
     .carakerja{
-        margin-left:  20px;
+        margin-left:  -15px;
         margin-top: 57px;
-        width:-4px;
+        width:340px;
     }
     .harapan{
-        margin-left: 60px;
+        margin-left: -20x;
     }
     .harapan1{
         width: 184px;
-        margin-left: 120px;
+        margin-left: -20px;
     }
     .harapan1 p{
         font-size: 30px;
     }
     .harapan2{
-        margin-left: 120px;
+        margin-left: -20px;
         width: 184px;
         margin-top:20px;
     }
@@ -371,14 +371,14 @@ overflow-x: hidden;
     }
     .harapan3{
        width: 184px;
-        margin-left: 120px;
+        margin-left: -20px;
         margin-top: 30px;  
     }
     .harapan3 p{
         font-size: 28px;
     }
     .back{
-        margin-left: 80px;
+        margin-left:-20px;
         margin-top: 10px;
     }
   }
