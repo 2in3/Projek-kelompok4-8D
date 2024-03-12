@@ -297,7 +297,7 @@ overflow-x: hidden;
         font-size: 25px;
     }
     .gambar img{
-        width: 300px;
+        width: 200px;
         margin-left: 4px;
     }
     .nama{
@@ -305,6 +305,7 @@ overflow-x: hidden;
     }
     .anggota{
         margin-left: 2px;
+        witdh:200px;
     }
     .latarbelakang{
         margin-left: 4px;
