@@ -297,7 +297,7 @@ overflow-x: hidden;
         font-size: 25px;
     }
     .gambar img{
-        width: 280px;
+        width: 300px;
         margin-left: 4px;
     }
     .nama{
@@ -309,7 +309,7 @@ overflow-x: hidden;
     }
     .latarbelakang{
         margin-left: 4px;
-        width: 350px;
+        width: 340px;
     }
       .latarbelakang h2{
           font-size:75px;
@@ -318,7 +318,7 @@ overflow-x: hidden;
           
     .alternatif{
         margin-left: 4px;
-        width: 350px;
+        width: 340px;
         margin-top: 30px;
         height: 615px;
     }
