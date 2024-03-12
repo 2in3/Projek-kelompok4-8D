@@ -334,6 +334,9 @@ overflow-x: hidden;
         width:340px;
         margin-left:3px
     }
+      .penjelasanproduk h2{
+          font-size:73px;
+      }
       .penjelasanproduk p{
           font-size:30px;
       }
@@ -342,8 +345,8 @@ overflow-x: hidden;
         margin-top:  57px;
         width:340px;
     }
-      .rancanganproduk{
-          font-size:30px;
+      .rancanganproduk h2{
+          font-size:73px;
       }
     .carakerja{
         margin-left:  -15px;
