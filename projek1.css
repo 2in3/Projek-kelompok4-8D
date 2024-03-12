@@ -20,7 +20,7 @@ overflow-x: hidden;
   }
   .anggota{
       background-color: rgb(28, 28, 133);
-      width: 60vh;
+      width: 360px;
       height: 27VH;
       border-radius: 20px ;
       margin-left:63vh;
@@ -301,11 +301,11 @@ overflow-x: hidden;
         margin-left: 20px;
     }
     .nama{
-        margin-left: -7px;
+        margin-left: -12px;
     }
     .anggota{
         margin-left: 2px;
-        witdh:150px;
+        witdh:340px;
     }
     .latarbelakang{
         margin-left: 4px;
@@ -361,7 +361,7 @@ overflow-x: hidden;
     }
     .harapan1{
         width: 184px;
-        margin-left: 110px;
+        margin-left: 150px;
     }
     .harapan1 p{
         font-size: 30px;
