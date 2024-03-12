@@ -1,4 +1,4 @@
-body{
+wbody{
     padding: 0;
     margin: 0;
     background: rgb(10,1,175);
@@ -305,7 +305,7 @@ overflow-x: hidden;
     }
     .anggota{
         margin-left: 2px;
-        witdh:75px;
+        witdh:50px;
     }
     .latarbelakang{
         margin-left: 4px;
@@ -320,10 +320,10 @@ overflow-x: hidden;
         margin-left: 4px;
         width: 340px;
         margin-top: 30px;
-        height: 693px;
+        height: 700px;
     }
     .alternatif h2{
-        font-size: 78px;
+        font-size: 45px;
     }
     .next{
         margin-left:12px;
@@ -357,7 +357,7 @@ overflow-x: hidden;
         width:340px;
     }
     .harapan{
-        margin-left: 20x;
+        margin-left: 120px;
     }
     .harapan1{
         width: 184px;
@@ -384,7 +384,7 @@ overflow-x: hidden;
         font-size: 28px;
     }
     .back{
-        margin-left:110px;
+        margin-left:60px;
         margin-top: 10px;
     }
   }
