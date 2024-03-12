@@ -297,22 +297,22 @@ overflow-x: hidden;
         font-size: 25px;
     }
     .gambar img{
-        width: 420px;
+        width: 380px;
         margin-left: 4px;
     }
     .nama{
-        margin-left: 50px;
+        margin-left: -4px;
     }
     .anggota{
-        margin-left: -3px;
+        margin-left: 2px;
     }
     .latarbelakang{
-        margin-left: 8px;
-        width: 420px;
+        margin-left: 4px;
+        width: 380px;
     }
     .alternatif{
-        margin-left: 8px;
-        width: 430px;
+        margin-left: 4px;
+        width: 3800px;
         margin-top: 30px;
         height: 615px;
     }
