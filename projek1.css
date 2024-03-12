@@ -20,7 +20,7 @@ overflow-x: hidden;
   }
   .anggota{
       background-color: rgb(28, 28, 133);
-      width: 120px;
+      width: 60vh;
       height: 27VH;
       border-radius: 20px ;
       margin-left:63vh;
@@ -305,7 +305,7 @@ overflow-x: hidden;
     }
     .anggota{
         margin-left: 2px;
-        witdh:50px;
+        witdh:150px;
     }
     .latarbelakang{
         margin-left: 4px;
