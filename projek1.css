@@ -298,21 +298,21 @@ overflow-x: hidden;
     }
     .gambar img{
         width: 300px;
-        margin-left: 4px;
+        margin-left: 10px;
     }
     .nama{
-        margin-left: -4px;
+        margin-left: -7px;
     }
     .anggota{
         margin-left: 2px;
-        witdh:180px;
+        witdh:120px;
     }
     .latarbelakang{
         margin-left: 4px;
         width: 340px;
     }
       .latarbelakang h2{
-          font-size:75px;
+          font-size:73px;
       }
       
           
@@ -320,48 +320,59 @@ overflow-x: hidden;
         margin-left: 4px;
         width: 340px;
         margin-top: 30px;
-        height: 615px;
+        height: 680px;
     }
     .alternatif h2{
-        font-size: 50px;
+        font-size: 72px;
     }
     .next{
-        margin-left: 100px;
+        margin-left: -20px;
         margin-top: 50px;
     }
     .penjelasanproduk{
         margin-left: 20px;
+        width:340px;
+        margin-left:-4px
     }
+      .penjelasanproduk p{
+          font-size:30px;
+      }
     .rancanganproduk{
-        margin-left: 20px;
+        margin-left: -4px;
         margin-top:  57px;
+        width:340px;
     }
+      .rancanganproduk{
+          font-size:30px;
+      }
     .carakerja{
         margin-left:  20px;
         margin-top: 57px;
+        width:-4px;
     }
     .harapan{
         margin-left: 60px;
     }
     .harapan1{
         width: 184px;
-        margin-left: 5px;
+        margin-left: 120px;
     }
     .harapan1 p{
         font-size: 30px;
     }
     .harapan2{
-        margin-left: 246px;
+        margin-left: 120px;
         width: 184px;
+        margin-top:20px;
     }
     .harapan2 p{
         font-size: 28px;
         text-align: center;
     }
     .harapan3{
-        width: 184px;
+       width: 184px;
         margin-left: 120px;
-        margin-top: -20px;  
+        margin-top: 30px;  
     }
     .harapan3 p{
         font-size: 28px;
