@@ -296,14 +296,14 @@ overflow-x: hidden;
        }
       .nama h1{
         font-size: 25px;
-          margin-left:-20px;
+          margin-left:30px;
     }
     .gambar img{
         width: 300px;
         margin-left: 20px;
     }
     .nama{
-        margin-left: -12px;
+        margin-left: 10px;
     }
     .anggota{
         margin-left: 2px;
@@ -328,7 +328,7 @@ overflow-x: hidden;
         font-size: 34px;
     }
     .next{
-        margin-left:12px;
+        margin-left:30px;
         margin-top: 50px;
     }
     .penjelasanproduk{
