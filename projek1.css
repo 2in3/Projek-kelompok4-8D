@@ -10,6 +10,7 @@ overflow-x: hidden;
 .Kelompok4{
     margin-top: -32px;
     height: 50px;
+    background-color: rgb(18,10,143);
   }
   .Kelompok4 h2{
     font-size: 4vh;
@@ -295,6 +296,7 @@ overflow-x: hidden;
        }
       .nama h1{
         font-size: 25px;
+          margin-left:8px;
     }
     .gambar img{
         width: 300px;
@@ -357,17 +359,17 @@ overflow-x: hidden;
         width:340px;
     }
     .harapan{
-        margin-left:60px;
+        margin-left:30px;
     }
     .harapan1{
         width: 184px;
-        margin-left: 110px;
+        margin-left: 80px;
     }
     .harapan1 p{
         font-size: 30px;
     }
     .harapan2{
-        margin-left: 110px;
+        margin-left: 80px;
         width: 184px;
         margin-top:20px;
     }
@@ -377,14 +379,14 @@ overflow-x: hidden;
     }
     .harapan3{
        width: 184px;
-        margin-left: 110px;
+        margin-left: 80px;
         margin-top: 30px;  
     }
     .harapan3 p{
         font-size: 28px;
     }
     .back{
-        margin-left:60px;
+        margin-left:30px;
         margin-top: 10px;
     }
   }
